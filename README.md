@@ -1,4 +1,4 @@
-# ttdwithPython
+# Test Drive Development with Python
 repo following along with the code in Test Driven Development with Python by Harry J.W. Percival
 # Requirements
 - Python 3.5.1
