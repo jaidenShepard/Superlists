@@ -2,6 +2,3 @@ superlists/db.sqlite3
 __pycache__
 *.pyc
 .idea/
-static/
-database/
-virtualenv/
